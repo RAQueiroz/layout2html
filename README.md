@@ -1,6 +1,6 @@
 # Layout => HTML 
 
-[layout inicial]()
+[layout inicial](https://github.com/RAQueiroz/layout2html/blob/master/assets/images/layout-inicial.jpg)
 
 ### Setup
 ```bash
